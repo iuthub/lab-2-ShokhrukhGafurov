@@ -1,0 +1,30 @@
+p
+{
+  color: black; 
+}
+h1
+{
+  color: #b17676;
+  
+}
+h2
+{
+  color:black;
+}
+ul
+{
+  color: black;
+}
+ol{
+	color: black;
+}
+.block {
+	display: inline-block;
+}
+.right{
+	float: right;
+}
+body
+{
+  background-color: #786464;
+}
